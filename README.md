@@ -1,6 +1,27 @@
 Run Performance audits using lighthouse
 -
 
+********** Acknowledgements **************
+THis test suite is very much based on the 
+
+https://dzone.com/articles/automating-performance-audit-using-lighthouse?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone
+
+The original source repo for this is here.
+https://github.com/gowthamraj198/Lighthouse.git
+
+
+New repo is stored at the following location.
+
+TBC
+
+Additional changes have been made for the specific client, and to add in specific tets for each of
+ - performance
+ - accessibility
+ - best-practices
+ - seo
+ - pwa  
+
+
 After cloning the repo,
 Install all the dependencies using:
 - `npm install`
